@@ -1,7 +1,7 @@
 %include "help.asm"
 
 section .data
-title: db "Murimi's Snake", 0
+title: db "Snake", 0
 food_image_path: db "./screen.png", 0
 screen_height: equ 750
 screen_width:  equ 750
